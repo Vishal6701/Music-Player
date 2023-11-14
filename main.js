@@ -160,9 +160,3 @@ function mute()
     }
 }
 
-document.getElementById('track_img').onclick=function()
-{
-
-    var a=prompt("How Much I love You baby");
-    alert(a);
-}
